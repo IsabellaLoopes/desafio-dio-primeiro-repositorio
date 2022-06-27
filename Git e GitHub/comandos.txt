@@ -1,0 +1,16 @@
+Comandos básicos:
+
+- git status (mostra o estado do projeto)
+- git clone (baixar um projeto a partir de um repositório)
+- git add (inserir/adicionar as alterações para poder commitar)
+- git commit (salvar/tirar uma cópia da forma que o projeto está)
+- git push origin (subir a branch que está local para o remoto)
+- git pull (puxar as alterações que estão na branch remota)
+- git merge (mesclar alterações de edições diferentes)
+- git --version (ver a versão do git)
+- git checkout (mudar de branch)
+- git branch (listar as branch locais)
+- git remote add origin (empurrar do local para uma origem remota)
+
+## link para baixar o git: https://git-scm.com/downloads
+## link github: https://github.com/
